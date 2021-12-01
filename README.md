@@ -1,5 +1,5 @@
 # Jira-ticket-app-clone
-A responsive Web App clone that can be used for generating tickets with Unique ID for issues and reminders
+A responsive Web App clone that can be used for generating tickets with Unique ID and different Colours for issues and reminders.
 
 TECHNOLOGY USED: Html, CSS, Javascript, Local Storage
 
